@@ -1,0 +1,44 @@
+h1 {
+    color:black
+}
+
+
+   
+
+
+*{
+    background-color: #ffebb6;
+}
+.header{
+    background-color: #ffebb6;
+    display:flex;
+    justify-content: space-between;
+}
+.games {
+    background-color: #abcdef;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.footer{
+    /*background-color: aqua;
+    */
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-items: flex-end;
+
+}
+
+.proj{
+    background-color: #fedcba;
+}
+/**{
+    background-color: aqua;
+    
+}*/
+p, h1{
+    text-align: center;
+    color:#86f3e1
+}
